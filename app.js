@@ -1,5 +1,5 @@
 /* ==========================================================================
-   EL TIMEBOX — SCRIPT DE LA AGENDA INTERACTIVA (app.js)
+    TIMEBOX — SCRIPT DE LA AGENDA INTERACTIVA (app.js)
    ========================================================================== */
 
 // --- CONFIGURACIÓN E INDICADORES HORARIOS (Igual al diario físico) ---
